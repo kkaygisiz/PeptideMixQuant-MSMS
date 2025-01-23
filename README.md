@@ -18,7 +18,7 @@ Finally, it will cumulate all corresponding MS1 intensity values across the enti
 The software will iterate this procedure for all mzXML files stored in the “data” folder.
 For convenience the output .csv files can be concatenated using provided concat-tables-csv.ipynb script.
 
-!https://github.com/kkaygisiz/PeptideMixQuant-MSMS/blob/main/Readme.png?raw=true
+![Figure_Readme](https://github.com/kkaygisiz/PeptideMixQuant-MSMS/blob/main/Readme.png?raw=true)
 
 A detailed explanation of the usage and requirements of PeptideMixQuant-MSMS can be found below.
 
